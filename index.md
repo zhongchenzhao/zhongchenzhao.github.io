@@ -2,8 +2,10 @@
 
 [My GitHub](https://github.com/zhongchenzhao)
 
-Master student 
+Master student
+
 Institute of Image Processing and Pattern Recognition, Department of Automation
+
 Shanghai Jiao Tong University, Shanghai, 200240, P. R. China
 
 ## Biography
