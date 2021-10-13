@@ -1,12 +1,12 @@
 ## Zhongchen Zhao
 
-[My GitHub](https://github.com/zhongchenzhao)
-
 Master student
 
 Institute of Image Processing and Pattern Recognition, Department of Automation
 
 Shanghai Jiao Tong University, Shanghai, 200240, P. R. China
+
+[My GitHub](https://github.com/zhongchenzhao)
 
 ## Biography
 
