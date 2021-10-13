@@ -2,11 +2,11 @@
 
 [My GitHub](https://github.com/zhongchenzhao)
 
-Master Student at Shanghai Jiao Tong university
+Master student at Shanghai Jiao Tong university
 
 ## Biography
 
-
+I am a 1th-year master student at Shanghai Jiao Tong University.
 
 
 ## News
