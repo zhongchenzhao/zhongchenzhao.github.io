@@ -33,10 +33,10 @@ I am a 1th-year master student at Shanghai Jiao Tong University.
 ## Honors & Awards
 
 
-```markdown
+
 I won the 1st in the MICCAI [KITS 2021 challenge](https://kits21.kits-challenge.org/results).
 
-```
+
 
 ## Experience
 
