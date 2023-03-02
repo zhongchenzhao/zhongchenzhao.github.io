@@ -10,7 +10,7 @@ Shanghai Jiao Tong University, Shanghai, 200240, P. R. China
 
 ## Biography
 
-I am a 1th-year master student at Shanghai Jiao Tong University.
+I am a 2nd-year master student at Shanghai Jiao Tong University.
 
 
 ## News
